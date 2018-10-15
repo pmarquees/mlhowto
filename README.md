@@ -8,16 +8,36 @@ You can also read the [Portuguese](translation/README.pt-br.md) version.
 ## Table of Contents
 
 * [What is Machine Learning](#what-is-machine-learning)
-* [Why Machine Learning?](#why-machine-learning)
+* [Why Machine Learning?](#why-should-designers-care)
 * [Getting Technical](#getting-technical)
 
 ### What is Machine Learning
 
 Google has a lot of content on ML, [this YouTube video gives a great summary](https://youtu.be/HcqpanDadyQ)
 
+
+### Why should designers care?
+
+I'll just leave some links here with content from awesome people, I'm sure you'll find them useful.
+
+#### [Anticipatory Design](https://www.anticipatorydesign.com/thesis/) 
+[Joel](https://twitter.com/Jvb_nl) has this amazing thesis what covers a lot of ground on why we, as designers, should care.
+
+#### [The UX of AI](https://design.google/library/ux-ai/)
+[Josh Lovejoy](https://twitter.com/jdlovejoy)from google has this in dept article on the work he has done on the Google Clip and I love this quote:
+
+> The hardware, the intelligence, and the content ultimately belong to you and you alone.
+
+#### [Predictive design](https://youtu.be/3mG03Rm0Ceg)
+I love to share, as you can see, so I spoke about how I used machine learning at Booking.com in this talk at UXDX
+
+#### [An intro to Machine Learning for Designers](https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257)
+
+
 ### Getting technical
 
-The machine learning **Hello Wolrd**. The best way to understand exactly how it works is by actually developing it. Don't be scared, the Machine Learning Hello World is not that hard here are some steps:
+#### The machine learning **Hello Wolrd**. 
+The best way to understand exactly how it works is by actually developing it. Don't be scared, the Machine Learning Hello World is not that hard here are some steps:
 
 First, let's get your dev enviroment up and running.
 
