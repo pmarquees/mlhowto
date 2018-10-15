@@ -1,4 +1,4 @@
-# Useful Git Commands
+# Machine Learning, how & why
 
 You can also read the [Portuguese](translation/README.pt-br.md) version.
 
