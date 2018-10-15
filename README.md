@@ -20,15 +20,15 @@ Google has a lot of content on ML, [this YouTube video gives a great summary](ht
 
 I'll just leave some links here with content from awesome people, I'm sure you'll find them useful.
 
-#### [Anticipatory Design](https://www.anticipatorydesign.com/thesis/) 
+#### [Anticipatory Design](https://www.anticipatorydesign.com/thesis/) ``ebook``
 [Joel](https://twitter.com/Jvb_nl) has this amazing thesis what covers a lot of ground on why we, as designers, should care.
 
-#### [The UX of AI](https://design.google/library/ux-ai/)
+#### [The UX of AI](https://design.google/library/ux-ai/) ``Article``
 [Josh Lovejoy](https://twitter.com/jdlovejoy)from google has this in dept article on the work he has done on the Google Clip and I love this quote:
 
 > The hardware, the intelligence, and the content ultimately belong to you and you alone.
 
-#### [Predictive design](https://youtu.be/3mG03Rm0Ceg)
+#### [Predictive design](https://youtu.be/3mG03Rm0Ceg) ``Video``
 I love to share, as you can see, so I spoke about how I used machine learning at Booking.com in this talk at UXDX
 
 #### [An intro to Machine Learning for Designers](https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257)
