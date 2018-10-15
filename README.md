@@ -31,7 +31,8 @@ I'll just leave some links here with content from awesome people, I'm sure you'l
 #### [Predictive design](https://youtu.be/3mG03Rm0Ceg) ``Video``
 I love to share, as you can see, so I spoke about how I used machine learning at Booking.com in this talk at UXDX
 
-#### [An intro to Machine Learning for Designers](https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257)
+#### [An intro to Machine Learning for Designers](https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257) ``Article``
+A very well written and illustrated guide to common therms and general info on Machine Learning
 
 
 ### Getting technical
