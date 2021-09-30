@@ -1,3 +1,6 @@
+# About Machine learning
+Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence.
+
 # Machine Learning, how & why
 
 You can also read the [Portuguese](translation/README.pt-br.md) version.
